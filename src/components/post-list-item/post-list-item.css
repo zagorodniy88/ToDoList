@@ -38,6 +38,8 @@
   cursor: pointer;
   user-select: none;
   transition: 0.5s all;
+  color: #17a2b8;
+  font-weight: 700;
 }
 
 .app-list-item.like .fa-heart {
@@ -46,7 +48,7 @@
 }
 
 .app-list-item.important .app-list-item-label {
-  color: #17a2b8;
+  color: black;
   font-weight: 700;
 }
 
